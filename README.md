@@ -4,7 +4,7 @@
 
 **Correo electrónico:** gorka.zubiri@cunef.edu
 
-**Directorio GitHub:** https://github.com/GorkaZubiri/practica1
+**Directorio GitHub:** https://github.com/GorkaZubiri/PracticaPrincipalAA
 
 Esta práctica tiene como objetivo ayudar a un banco a mejorar la aprobación de préstamos mediante el análisis de datos históricos de solicitudes. La idea es identificar patrones en los clientes que cumplen con sus pagos y aquellos que no lo hacen, para aplicar esta información en futuros modelos predictivos.
 
