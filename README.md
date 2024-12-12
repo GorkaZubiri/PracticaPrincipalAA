@@ -8,6 +8,15 @@
 
 Esta práctica tiene como objetivo ayudar a un banco a mejorar la aprobación de préstamos mediante el análisis de datos históricos de solicitudes. La idea es identificar patrones en los clientes que cumplen con sus pagos y aquellos que no lo hacen, para aplicar esta información en futuros modelos predictivos.
 
+## Objetivos concretos del proyecto
+Los objetivos concretos del proyecto han sido:  
+
+1. **EDA**: Entender cómo están organizados los datos, ver cómo se distribuyen las variables, detectar si hay valores atípicos y faltantes,y detectar relaciones clave entre las variables predictoras y la variable objetivo.  
+
+2. **Selección y Evaluación del Modelo**: Probar y comparar múltiples modelos predictivos, optimizar sus hiperparámetros y evaluar su rendimiento utilizando métricas clave para seleccionar el modelo final.  
+
+3. **Explicabilidad del Modelo**: Aplicar técnicas de explicabilidad global y local para entender el impacto de cada variable en las predicciones, garantizando que el modelo sea transparente y fácil de interpretar.  
+
 
 ## Estructura del Directorio
 
