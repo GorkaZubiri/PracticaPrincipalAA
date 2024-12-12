@@ -34,7 +34,7 @@ La estructura del directorio de este proyecto está organizada de la siguiente m
 - **`env/`**: Archivos relacionados con el entorno de desarrollo, incluyendo un archivo `requirements.txt` con todas las librerías y dependencias utilizadas en el proyecto.
 
 
-- **`notebooks/`**: Contiene los notebooks en formato Jupyter (`.ipynb`) que documentan el análisis de datos y otros experimentos.
+- **`notebook/`**: Contiene los notebooks en formato Jupyter (`.ipynb`) que documentan el análisis de datos y otros experimentos.
 
 
 - **`html/`**: Carpeta donde se almacenan los notebooks convertidos en formato HTML para facilitar su visualización y compartición.
@@ -42,7 +42,7 @@ La estructura del directorio de este proyecto está organizada de la siguiente m
 
 - **`src/`**: Directorio que guarda los archivos fuente de Python, tales como scripts, funciones o clases utilizadas en el procesamiento de datos o la creación de modelos.
 
-- **`models/`**: Carpeta donde se almacenan los .pickle.
+- **`models/`**: Carpeta donde se almacenan los modelo en formato .pickle.
 
 ## Notebooks Desarrollados
 
