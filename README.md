@@ -1,8 +1,6 @@
 # Práctica principal de la asignatura
 
-**Autor:** Gorka Zubiri Elso
-
-**Correo electrónico:** gorka.zubiri@cunef.edu
+**Autor:** Gorka Zubiri 
 
 **Directorio GitHub:** https://github.com/GorkaZubiri/PracticaPrincipalAA
 
