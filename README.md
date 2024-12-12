@@ -33,7 +33,7 @@ La estructura del directorio de este proyecto está organizada de la siguiente m
 
 - **`src/`**: Directorio que guarda los archivos fuente de Python, tales como scripts, funciones o clases utilizadas en el procesamiento de datos o la creación de modelos.
 
--**`models/`**: Carpeta donde se almacenan los .pickle.
+- **`models/`**: Carpeta donde se almacenan los .pickle.
 
 ## Notebooks Desarrollados
 
