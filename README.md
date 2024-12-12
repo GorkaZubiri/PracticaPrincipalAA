@@ -46,7 +46,7 @@ La estructura del directorio de este proyecto está organizada de la siguiente m
 
 ## Notebooks Desarrollados
 
-He desarrollado cinco notebooks en este trabajo práctica:
+He desarrollado cinco notebooks en esta práctica:
 
 1. **01_Initial_Exploratory_Analysis**: Su objetivo es realizar un análisis exploratorio inicial para obtener una mejor comprensión del problema que estamos tratando de resolver.
 2. **02_Data_Preprocessing_Analysis**:  Se enfoca en el preprocesamiento de variables numéricas y categóricas, ajustando tipos de datos, gestionando outliers, valores faltantes y analizando correlaciones.
